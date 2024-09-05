@@ -1,5 +1,5 @@
 
-# Amazon Web Scraping Project
+# Ecommerce Web Scraping Project
 
 This project consists of two web scraping tasks aimed at extracting product and review data from Amazon. Each task is performed in separate Jupyter notebooks, and the data is saved to CSV files for further analysis.
 
