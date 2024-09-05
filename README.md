@@ -54,4 +54,4 @@ Download and open the notebooks `amz_prod.ipynb` and `amz_rev.ipynb` in Jupyter.
 - The review scraping notebook generates a CSV file with user reviews.
 
 ## Disclaimer
-This project is intended for educational purposes. Please adhere to Amazon's terms of service and scraping guidelines.
+This project is intended for educational purposes. Please adhere to website's terms of service and scraping guidelines.
